@@ -24,7 +24,7 @@ print("s:",s)
 x=[x.real for x in s]
 y=[x.imag for x in s]
 plt.plot(x,y,'go')  #where g means green color & o means circle symbol
-plt.axis([-6,6,-6,6])
+plt.axis([-6,6,-6,6])  #hello vivek
 plt.show()
 
 

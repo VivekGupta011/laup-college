@@ -2,7 +2,7 @@
 # 1. enter a vector u as a n-list
 # 2. enter another vector v as a n-list
 # 3.find the vector au+bu for different values of and b
-# 4.find the dot product of u and v
+# 4.find the dot product of u and v   
 
 def addvec(x,y):
     return[x[i]+y[i] for i in range (len(x))]

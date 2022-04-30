@@ -5,7 +5,7 @@
 # 4.creating a new plot by rotating the given number by 90,180 and 270 degree and also by scaling by a number a=1/2,a=1/3 and a=2 etc
 
 import matplotlib.pyplot as plt
-# addition of the two complex number
+# addition of the two complex number hiii vivek
 a=29+7j
 b=10-2j
 c=a+b
